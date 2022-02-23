@@ -2,7 +2,9 @@
 ->About the project 
 In 'Camera Pointer' you can draw on the screen by only waiving your finger around
 in the air. It's a color tracking project with a small color bead on the Finger
+
 -> How to run the code
+
 1- install opencv library
 2- run the python file
 
